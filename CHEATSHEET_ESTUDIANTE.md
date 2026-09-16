@@ -10,7 +10,7 @@
 git config --global user.name "TU_USUARIO_GITHUB"
 git config --global user.email "tu_correo_registrado@ejemplo.com"
 
-# 2. Instalar / verificar pnpm globalmente:
+# 2. Instalar / verificar pnpm globalmente ;
 npm install -g pnpm
 
 # 3. En tu teléfono: Instalar Expo Go (Google Play o Apple App Store)
