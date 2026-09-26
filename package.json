@@ -50,7 +50,7 @@
   },
   "devDependencies": {
     "@expo/ngrok": "^4.1.0",
-    "@types/node": "^22.13.4",
+    "@types/node": "^22.20.1",
     "@types/react": "~19.2.18",
     "tsx": "^4.19.3",
     "typescript": "^6.0.3"
