@@ -55,7 +55,7 @@ const vaciarCarrito = () => {
           variante="yellow"
         >
           <Text className="text-xs font-bold text-black leading-relaxed mb-3">
-            <b>Misión:</b> Abre este archivo (<Text className="font-mono text-blue-700 font-bold">app/(tabs)/pedidos.tsx</Text>). Declara dos estados con <Text className="font-mono text-pink-700 font-bold">useState(0)</Text>: <Text className="font-mono font-bold">[total, setTotal]</Text> y <Text className="font-mono font-bold">[items, setItems]</Text>.
+            <Text className="font-extrabold">Misión:</Text> Abre este archivo (<Text className="font-mono text-blue-700 font-bold">app/(tabs)/pedidos.tsx</Text>). Declara dos estados con <Text className="font-mono text-pink-700 font-bold">useState(0)</Text>: <Text className="font-mono font-bold">[total, setTotal]</Text> y <Text className="font-mono font-bold">[items, setItems]</Text>.
           </Text>
           <View className="bg-white/80 p-3 rounded-lg border-2 border-black gap-1.5">
             <Text className="font-extrabold text-xs text-black">🔍 Verificación del Reto:</Text>
